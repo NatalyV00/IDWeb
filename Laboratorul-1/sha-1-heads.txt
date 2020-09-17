@@ -1,0 +1,11 @@
+e99e07f612a8b86c9ab5738e169f20f8c13c66d4 commit refs/heads/c
+7c2987707609b53dca5eee02e1ab2c03e3cda3d5 commit refs/heads/clipper
+a9be1ad424a2d4ccd705bb34bca4cbe491196468 commit refs/heads/cpp
+159d1757fe00f4c386f61e7c10b617ecf971bc50 commit refs/heads/csharp
+c604edb30d593166bc5e192beeb8e6170983f359 commit refs/heads/html
+1b453e3cf4435fe2f962fa894b67b2fbf7f45696 commit refs/heads/java
+d04888ec66675a8908b92c97b18a5510299976fd commit refs/heads/javascript
+633fd8fbbcc8ea62a3a7404c1236c7d7b56f434d commit refs/heads/master
+66f3cfc8d9a5be0f988cc51042f5a2edf2b2eaa1 commit refs/heads/pascal
+fcf5b70de32a3c1dc2a2754ace1a984c48e2dfa6 commit refs/heads/python
+345ef8a077eea088f908049a35d168c73be103e5 commit refs/heads/ruby
